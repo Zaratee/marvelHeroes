@@ -14,3 +14,14 @@ Haciendo uso de:
 [Project_Page](https://9kt63y.csb.app/)
 
 # Design
+ |     Main Page    |
+|:-------------:|
+| <img src="/design/Main.png" alt="drawing" height="400"/>|  
+
+|     Heroe Hovered (1st)    |
+|:-------------:|
+| <img src="/design/HeroeHover.png" alt="drawing" height="400"/>|  
+
+|  Heroe Liked (1st)  |      
+|:----------:|
+| <img src="/design/HeroeLiked.png" alt="drawing" height="400"/> |
